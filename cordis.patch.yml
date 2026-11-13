@@ -1,0 +1,5 @@
+# dsh bundle patch: inserts this plugin into a profile's layer stack.
+# Kept in the package so profile rewrites cannot drop the plugin.
+- insert:
+    - id: automation-log
+      name: 'dsh-automation-log'
