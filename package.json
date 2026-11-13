@@ -1,6 +1,6 @@
 {
   "name": "dsh-automation-log",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Automations feed in the DSH left sidebar: recent schedule runs and local watcher events, click a row to open the chat it was delivered into",
   "type": "module",
   "main": "lib/index.js",
@@ -42,6 +42,14 @@
     "sidebar",
     "feed"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bayan1377/dsh-automation-log.git"
+  },
+  "homepage": "https://github.com/Bayan1377/dsh-automation-log#readme",
+  "bugs": {
+    "url": "https://github.com/Bayan1377/dsh-automation-log/issues"
+  },
   "author": "bayan1377",
   "license": "MIT"
 }
